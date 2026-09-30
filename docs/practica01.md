@@ -4,8 +4,6 @@
 
 ![Captura de Pantalla](../docs/img/practica01/Foto1.png)
 
-![Captura de Pantalla](../docs/img/practica01/Foto1.png)
-
 ## - GitHub CLI instalado y configurado (gh auth status)
 
 ![Captura de Pantalla](../docs/img/practica01/Foto2.png)
