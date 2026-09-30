@@ -1,0 +1,6 @@
+site_name: Proyecto 2627
+
+theme:
+  name: material
+
+docs_dir: docs
