@@ -26,8 +26,11 @@ El resumen es que en esta pagina he utilizado elementos y plugins para agilizar 
 
 ### Elementos
 
-![Captura de Pantalla](img/practica01/Foto7.png)
+Los elementos son los bloques que hay
+
+![Captura de Pantalla](img/practica01/Foto6.png)
 
 ### Plugins
 
-![Captura de Pantalla](img/practica01/Foto8.png)
+El plugin es la lupa que hay arriba a la izquierda
+![Captura de Pantalla](img/practica01/Foto6.png)
